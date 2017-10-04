@@ -1,0 +1,2 @@
+[H[2J
+73 ESSID:"OpenWrt1_5GhZ" 

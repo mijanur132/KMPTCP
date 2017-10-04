@@ -1,0 +1,62 @@
+[H[2J
+60 ESSID:"OpenWrt1_5GhZ" [H[2J
+59 ESSID:"OpenWrt1_5GhZ" [H[2J
+59 ESSID:"OpenWrt1_5GhZ" [H[2J
+59 ESSID:"OpenWrt1_5GhZ" [H[2J
+59 ESSID:"OpenWrt1_5GhZ" [H[2J
+61 ESSID:"OpenWrt1_5GhZ" [H[2J
+63 ESSID:"OpenWrt1_5GhZ" [H[2J
+62 ESSID:"OpenWrt1_5GhZ" [H[2J
+63 ESSID:"OpenWrt1_5GhZ" [H[2J
+64 ESSID:"OpenWrt1_5GhZ" [H[2J
+66 ESSID:"OpenWrt1_5GhZ" [H[2J
+62 ESSID:"OpenWrt1_5GhZ" [H[2J
+65 ESSID:"OpenWrt1_5GhZ" [H[2J
+64 ESSID:"OpenWrt1_5GhZ" [H[2J
+64 ESSID:"OpenWrt1_5GhZ" [H[2J
+65 ESSID:"OpenWrt1_5GhZ" [H[2J
+64 ESSID:"OpenWrt1_5GhZ" [H[2J
+67 ESSID:"OpenWrt1_5GhZ" [H[2J
+64 ESSID:"OpenWrt1_5GhZ" [H[2J
+65 ESSID:"OpenWrt1_5GhZ" [H[2J
+63 ESSID:"OpenWrt1_5GhZ" [H[2J
+61 ESSID:"OpenWrt1_5GhZ" [H[2J
+61 ESSID:"OpenWrt1_5GhZ" [H[2J
+48 ESSID:"OpenWrt1_5GhZ" [H[2J
+48 ESSID:"OpenWrt1_5GhZ" [H[2J
+50 ESSID:"OpenWrt1_5GhZ" [H[2J
+52 ESSID:"OpenWrt1_5GhZ" [H[2J
+50 ESSID:"OpenWrt1_5GhZ" [H[2J
+49 ESSID:"OpenWrt1_5GhZ" [H[2J
+48 ESSID:"OpenWrt1_5GhZ" [H[2J
+59 ESSID:"OpenWrt1_5GhZ" [H[2J
+86 ESSID:"OpenWrt1_5GhZ" [H[2J
+[H[2J
+[H[2J
+[H[2J
+[H[2J
+[H[2J
+[H[2J
+87 ESSID:"OpenWrt1_5GhZ" [H[2J
+66 ESSID:"OpenWrt1_5GhZ" [H[2J
+49 ESSID:"OpenWrt1_5GhZ" [H[2J
+50 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+73 ESSID:"OpenWrt1_5GhZ" [H[2J
+73 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+73 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+71 ESSID:"OpenWrt1_5GhZ" [H[2J
+71 ESSID:"OpenWrt1_5GhZ" [H[2J
+71 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+71 ESSID:"OpenWrt1_5GhZ" [H[2J
+73 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+72 ESSID:"OpenWrt1_5GhZ" [H[2J
+75 ESSID:"OpenWrt1_5GhZ" [H[2J
+73 ESSID:"OpenWrt1_5GhZ" 
